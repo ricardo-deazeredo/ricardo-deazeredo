@@ -15,4 +15,4 @@
 - Feito em sala de aula por mim.
 
 # Código
-- Ultilizei estrutura da tag *<lable> <h1> <button> <center>*.
+- Ultilizei estrutura da tag *lable, h1, button, center*.
